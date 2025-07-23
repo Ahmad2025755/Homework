@@ -1,5 +1,7 @@
-let Myname = "Ahmad";
-let FavoriteSubject = "Maths";
-let grade = "6";
-let nationality = "Pakistan";
-console.log(`My name is  ${Myname}. I am from ${nationality}. My favorite subject is ${FavoriteSubject}. I study in grade ${grade}. `) 
+//Getting the Answer by multiplying.
+
+let num1 = "274";
+let num2 = "3392";
+
+var result0 = num1 * num2;
+console.log(`The answer after multiplying 3392 by 274 is ${result0}`);
